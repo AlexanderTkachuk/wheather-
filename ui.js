@@ -8,7 +8,7 @@ class UI {
         this.humidity = document.getElementById('w-humidity');
         this.feelsLike = document.getElementById('w-feels-like');
         this.dewpoint = document.getElementById('w-dewpoint');
-        this.widn = document.getElementById('w-wind');
+        this.wind= document.getElementById('w-wind');
     }
 
     paint(weather) {
